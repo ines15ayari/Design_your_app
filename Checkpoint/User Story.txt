@@ -1,0 +1,17 @@
+As a user I want to search for a book by name so that I can find a specific book easily.
+As a user I want to see the list of all available books so that I can choose the book that suits me best.
+As a user I want to sort the list of books by price.
+As a user I want to sort the list of books by type.
+As a user I want to search for a book by the name of the author.
+As a user I want to check the list of books that I have already bought from the app.
+As a user I want to register so that I can have an account in the Library Store app.
+As a user I want to login so that I can access my account in the Library Store app.
+As a user I want to rate the book after buying it so that I can leave my personal feedback to next buyers.
+As a user I want to see a description of the book so that I can understand what I am going to buy.
+As an admin I want to be able to add new books to the list of existing books.
+As an admin I want to be able to modify existing books.
+As an admin I want to be able to delete books from the list of existing books.
+As an admin I want to be able to get the list of all existing books.
+As an admin I want login so that I can access the Library Store app.
+
+
